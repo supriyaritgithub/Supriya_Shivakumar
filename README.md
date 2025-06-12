@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Spriya Shivakumar </h1>
 
 <p align="center">
-  <em>First-year Aerospace Engineering student | Explorer of space, art, and code</em><br>
+  <em>Aerospace Engineering student | Explorer of space, art, and code</em><br>
   <strong>Driven by curiosity. Obsessed with the unknown.</strong>
 </p>
 
