@@ -1,25 +1,49 @@
-# 👋 Hey, I'm Supriya Shivakumat 
-_Aerospace engineering student | Explorer of space, art, and code_
+<h1 align="center"> Spriya Shivakumar | Aerospace Explorer, Coder & Writer</h1>
 
-- Building rockets and embedded systems
-- Artist, writer, and deep thinker
-- Currently learning: AI, full-stack dev, and Physics simulations
-- Motto: "Engineer the cosmos, sketch the soul."
+<p align="center">
+  <em>First-year Aerospace Engineering student | Explorer of space, art, and code</em><br>
+  <strong>Driven by curiosity. Obsessed with the unknown.</strong>
+</p>
 
-### 🚀 Projects in Progress
-| Project | Description | Tech |
-|--------|-------------|------|
-| [⚙️ Ground Station Control](#) | Real-time telemetry UI for drones/rockets | `Tkinter`, `ESP32`, `SensorKit` |
-| [🔥 Dual-Mode Engine Sim](#) | Jet + Ramjet propulsion modeling | `Python`, `SimScale`, `Pygame` |
-| [🧪 AeroSim Lab](#) | CFD workflows + experiments | `MATLAB`, `OpenFOAM`, `Onshape` |
-| [🖌 Art Fusion Engine](#) | Code+Art generative visuals | `Python`, `Turtle`, `Canvas API` |
+---
 
+### 🛠️ Projects in Orbit
+| 🚀 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| [Ground Station](#) | All-in-one telemetry & UI for aerial vehicles | `Python`, `Tkinter/PyQt5`|
+| [Uni_Pro_Sim](#) | All-in-one propulsion simulator and analyzer | `Python`, `SimScale`, `Pygame` |
+| [AeroSim CFD Lab](#) | Workflow and experiments using OpenFOAM | `MATLAB`, `OpenFOAM`, `FreeCAD` |
 
-## 🧪 Tech Stack
-`Python` `C++` `MATLAB` `Tkinter/Customtkinter` `Onshape` `ESP32` `OpenFOAM` `HTML/CSS/JS` `Arduino`
+---
 
-## 📫 Reach Me
-- Email: isupriyashivakumar@gmail.com
-- LinkedIn: https://www.linkedin.com/in/supriya-shivakumar-10420a2b2/
-- Newsletter: https://supriyashivakumar.substack.com/
+###  Tech Stack
+
+`Python` `C++` `MATLAB` `Tkinter` `Onshape`  
+`OpenFOAM` `Arduino` `ESP32` `HTML/CSS`  
+`Pygame` `CustomTkinter` `FreeCAD` `SimScale`
+
+---
+
+###  Current Focus
+- Building hands-on systems: sensors, UIs, simulations
+- Blending art, science & engineering in creative tools
+- Writing about the unexplored intersections of tech & meaning
+
+---
+
+### 📫 Reach Out
+-  Substack: [https://supriyashivakumar.substack.com/]
+-  LinkedIn: [https://www.linkedin.com/in/supriya-shivakumar-10420a2b2/]
+-  Email: `isupriyashivakumar@gmail.com`
+
+---
+
+<details>
+<summary>📜 Philosophy</summary>
+
+> _"Engineer the cosmos. Sketch the soul. Question everything."_  
+> — Supriya Shivakumar 
+
+</details>
+
 
