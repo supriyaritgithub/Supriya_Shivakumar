@@ -1,4 +1,4 @@
-<h1 align="center"> Spriya Shivakumar | Aerospace Explorer, Coder & Writer</h1>
+<h1 align="center"> Hi, I'm Spriya Shivakumar </h1>
 
 <p align="center">
   <em>First-year Aerospace Engineering student | Explorer of space, art, and code</em><br>
