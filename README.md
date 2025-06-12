@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Supriya Shivakumat 
 _Aerospace engineering student | Explorer of space, art, and code_
 
-- 🚀 Building rockets and embedded systems
-- 🎨 Artist, writer, and deep thinker
-- 🔧 Currently learning: AI, full-stack dev, and Physics simulations
-- 🧠 Motto: "Engineer the cosmos, sketch the soul."
+- Building rockets and embedded systems
+- Artist, writer, and deep thinker
+- Currently learning: AI, full-stack dev, and Physics simulations
+- Motto: "Engineer the cosmos, sketch the soul."
 
 ## 🚀 Projects
 | Project | Description | Tech Stack |
