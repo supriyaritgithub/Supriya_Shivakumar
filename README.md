@@ -10,8 +10,8 @@
 ### 🛠️ Projects in Orbit
 | 🚀 Project | Description | Tech Stack |
 |-----------|-------------|------------|
+| [Uni_Pro_Sim](https://github.com/supriyaritgithub/Uni_Pro_Sim) | All-in-one propulsion simulator and analyzer | `Python`, `SimScale`, `Pygame` |
 | [Ground Station](#) | All-in-one telemetry & UI for aerial vehicles | `Python`, `Tkinter/PyQt5`|
-| [Uni_Pro_Sim](#) | All-in-one propulsion simulator and analyzer | `Python`, `SimScale`, `Pygame` |
 | [AeroSim CFD Lab](#) | Workflow and experiments using OpenFOAM | `MATLAB`, `OpenFOAM`, `FreeCAD` |
 
 ---
