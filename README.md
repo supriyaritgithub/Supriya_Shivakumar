@@ -6,8 +6,8 @@
 
 ---
 
-### 🛠️ Projects in Orbit
-| 🚀 Project | Description | Tech Stack |
+### Projects in Orbit
+| Project | Description | Tech Stack |
 |-----------|-------------|------------|
 | [Uni_Pro_Sim](#) | All-in-one propulsion simulator and analyzer | `Python`, `SimScale`, `Pygame` |
 | [Ground Station](#) | All-in-one telemetry & UI for aerial vehicles | `Python`, `Tkinter/PyQt5`|
@@ -29,19 +29,11 @@
 
 ---
 
-### 📫 Reach Out
+### Reach Out
 -  Substack: [https://supriyashivakumar.substack.com/]
 -  LinkedIn: [https://www.linkedin.com/in/supriya-shivakumar-10420a2b2/]
 -  Email: `isupriyashivakumar@gmail.com`
 
 ---
-
-<details>
-<summary>📜 Philosophy</summary>
-
-> _"Engineer the cosmos. Sketch the soul. Question everything."_  
-> — Supriya Shivakumar 
-
-</details>
 
 
