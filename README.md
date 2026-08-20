@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Spriya Shivakumar </h1>
 
 <p align="center">
-  <em>Aerospace Engineering student | Explorer of space, art, and code
+  <em>Aerospace Engineering student
 </p>
 
 ---
@@ -33,7 +33,5 @@
 -  Substack: [https://supriyashivakumar.substack.com/]
 -  LinkedIn: [https://www.linkedin.com/in/supriya-shivakumar-10420a2b2/]
 -  Email: `isupriyashivakumar@gmail.com`
-
----
 
 
